@@ -5,5 +5,5 @@
  */
 
 $config['dsn']      = 'mysql:host=localhost;dbname=restaurant';
-$config['password'] = 'root';
-$config['user']     = 'root';
+$config['password'] = 'password';
+$config['user']     = 'user';
